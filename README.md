@@ -1,10 +1,3 @@
-Open the installer folder and open the installer.bat, this will install the requirements for the nuker.
+#Moon Nuker
 
-Then open the Config folder and open the lunaconfig.json and do as follows:
-
-Replace "paste here 1" with your bot token.
-Replace "paste here 2" with your discord id. Example: 500755993374752789
-Replace "paste here 3" with your custom bot status. Example: luna's goated!
-Replace "paste here 4" with the name you want the server you nuke to be change to. Example: ez nuke by luna
-
- [Support Server](https://discord.gg/rAQwJ8FHJZ).
+![This is an image]([https://myoctocat.com/assets/images/base-octocat.svg](https://cdn.discordapp.com/attachments/790990373442682951/1007997832814411878/photo-1527842891421-42eec6e703ea.jpg))
